@@ -32,4 +32,4 @@ describe('Testing numbers', () => {
   it('7 is equal to 7', () => {
     expect(7 === 7).to.be.true;
   });
-});b
+});
